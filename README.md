@@ -14,9 +14,9 @@ Este repositório contém o projeto final desenvolvido para o componente curricu
 
 ## 👥 Equipe de Desenvolvimento
 
-  * **Thiago Xavier** - [GitHub](https://www.google.com/search?q=https://github.com/xaviergthiago)
-  * **Matheus Soares** - [GitHub](https://www.google.com/search?q=https://github.com/matheusfrsoares)
-  * **Leonardo Faria** -  - [GitHub](https://www.google.com/search?q=https://github.com/itzleofaria)
+  * **Thiago Xavier** - [GitHub](https://github.com/xaviergthiago)
+  * **Matheus Soares** - [GitHub](https://github.com/matheusfrsoares)
+  * **Leonardo Faria** - [GitHub](https://github.com/itzleofaria)
 
 -----
 
